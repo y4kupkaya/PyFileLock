@@ -42,3 +42,9 @@ python -m PyFileLock
 
 ### **📡 İletişim :**
 [![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/aylak-github) [![Opensource](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/G4rip)
+
+<br>
+
+### 📮 Credit's
+
+- [Htr-Tech](https://github.com/htr-tech) - for the main code 

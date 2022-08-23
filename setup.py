@@ -66,7 +66,7 @@ python3 -m PyFileLock
 
 setup(
     name="PyFileLock",
-    version="1.0.0",
+    version="1.0.1",
     author="aylak-github",
     description="Python dosyalarını 15 farklı kombinasyonda şifreler.",
     long_description=long_description,
